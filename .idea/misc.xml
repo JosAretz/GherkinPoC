@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/PoC_Gherkin_Test/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="OctanePluginConnectionSettings" Url="https://octanetest:8443" SharedSpace="2001" WorkSpace="1002" User="el80014" SSO="false" />
+  <component name="OctanePluginState" SEARCH_HISTORY="{&quot;SEARCH_HISTORY&quot;:[]}" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" project-jdk-name="15" project-jdk-type="JavaSDK" />
+</project>
